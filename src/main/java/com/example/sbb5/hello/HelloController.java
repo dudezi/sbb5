@@ -1,4 +1,4 @@
-package com.example.sbb5;
+package com.example.sbb5.hello;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

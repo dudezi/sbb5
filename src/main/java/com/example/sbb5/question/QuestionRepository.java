@@ -1,4 +1,4 @@
-package com.example.sbb5;
+package com.example.sbb5.question;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

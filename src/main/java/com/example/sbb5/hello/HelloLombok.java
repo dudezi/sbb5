@@ -1,8 +1,7 @@
-package com.example.sbb5;
+package com.example.sbb5.hello;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import lombok.Setter;
 
 @RequiredArgsConstructor
 @Getter

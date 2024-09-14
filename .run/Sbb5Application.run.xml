@@ -4,7 +4,7 @@
     <module name="sbb5.main" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.example.sbb5.*" />
+        <option name="PATTERN" value="com.example.sbb5.answer.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
